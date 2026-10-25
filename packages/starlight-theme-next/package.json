@@ -16,11 +16,11 @@
   ],
   "homepage": "https://starlight-theme-next.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-theme-next/issues"
+    "url": "https://github.com/trueberryless/starlight-theme-next/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-theme-next.git",
+    "url": "https://github.com/trueberryless/starlight-theme-next.git",
     "directory": "packages/starlight-theme-next"
   },
   "license": "MIT",
